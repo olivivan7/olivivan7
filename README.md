@@ -23,9 +23,12 @@ A few others are related to **Software Engineering**.<br/>
 <img src="https://img.shields.io/badge/Master-Data%20Engineering%20at%20Purdue%20University-yellow" />
 
 *Spoken Languages:*<br/>
-    
-<img src="https://user-images.githubusercontent.com/67763471/179825097-f51303c7-75eb-4975-99c0-c8d8e5d86e7e.svg" width=30 heigth="30" />Portuguese: Native
-<img src="flags/4x3/ea.svg" width="30" heigth="30" /> Spanish: Intermidiate
+
+<img src="https://user-images.githubusercontent.com/67763471/179825097-f51303c7-75eb-4975-99c0-c8d8e5d86e7e.svg" width=30 heigth="30" /> Portuguese: Native
+<img src="https://user-images.githubusercontent.com/67763471/179825666-9fa4ac93-a70e-4128-a62f-dec064199be2.png" width="30" heigth="30" /> English: Fluent
+<img src="https://user-images.githubusercontent.com/67763471/179825825-e908a0b1-b1ab-44e2-a639-945852967899.svg" width="30" heigth="30" /> Spanish: Intermidiate
+<img src="https://user-images.githubusercontent.com/67763471/179826227-e15c5b20-86e0-4b87-9406-08af122630a8.png" width="30" heigth="30" /> Italian: Beginner
+<img src="https://user-images.githubusercontent.com/67763471/179826181-0776bc73-c3a7-4229-9d6f-c59dcf9939b4.png" width="30" heigth="30" /> French: Beginner
 
 *Languages:*<br/>
     
