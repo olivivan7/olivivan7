@@ -5,6 +5,7 @@
     <h1 align="center">My Curriculum Vitae</h1>
 </head>
             
+
 <body>
 
 ***Hello World!*** 👋
@@ -22,7 +23,8 @@ A few others are related to **Software Engineering**.<br/>
 <img src="https://img.shields.io/badge/Master-Data%20Engineering%20at%20Purdue%20University-yellow" />
 
 *Spoken Languages:*<br/>
-<img src="flags/4x3/br.svg" width=30 heigth="30" />Portuguese: Native
+    
+<img src="![Flag_of_Brazil](https://user-images.githubusercontent.com/67763471/179825097-f51303c7-75eb-4975-99c0-c8d8e5d86e7e.svg)" width=30 heigth="30" />Portuguese: Native
 <img src="flags/4x3/ea.svg" width="30" heigth="30" /> Spanish: Intermidiate
 
 *Languages:*<br/>
