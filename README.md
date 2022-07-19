@@ -22,24 +22,24 @@ A few others are related to **Software Engineering**.<br/>
 <img src="https://img.shields.io/badge/Bachelor-Production%20Engineering-blue" /> <img src="https://img.shields.io/badge/Master-Business%20Intelligence-yellow" /> <img src="https://img.shields.io/badge/Master-Data%20Engineering%20at%20IGTI-yellow" />
 <img src="https://img.shields.io/badge/Master-Data%20Engineering%20at%20Purdue%20University-yellow" />
 
-*Spoken Languages:*<br/>
+- *Spoken Languages:*<br/>
     
 <pre><img src="https://user-images.githubusercontent.com/67763471/179825097-f51303c7-75eb-4975-99c0-c8d8e5d86e7e.svg" width="20" heigth="20" /> <strong>Portuguese: Native</strong>   <img src="https://user-images.githubusercontent.com/67763471/179825666-9fa4ac93-a70e-4128-a62f-dec064199be2.png" width="20" heigth="20" /> <strong>English: Fluent</strong>   <img src="https://user-images.githubusercontent.com/67763471/179826733-23b80a09-0827-4f0e-b12a-16b1e643eb35.jpg" width="20" heigth="20" /> <strong>Spanish: Intermediate</strong>   <img src="https://user-images.githubusercontent.com/67763471/179826227-e15c5b20-86e0-4b87-9406-08af122630a8.png" width="20" heigth="20" /> <strong>Italian: Beginner</strong>   <img src="https://user-images.githubusercontent.com/67763471/179826181-0776bc73-c3a7-4229-9d6f-c59dcf9939b4.png" width="20" heigth="20" /> <strong>French: Beginner</strong></pre>
 
-*Languages:*<br/>
+- *Languages:*<br/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50" /> <img src="https://user-images.githubusercontent.com/67763471/179831331-66835d1b-7bd4-45c4-b86d-5a08883ab333.png" width="50" heigth="90" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="50" height="50" />
 <br/>
     
-*API´s:*<br/>    
+- *API´s:*<br/>    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" />
 <br/>
     
-IDE´s:<br/>    
+- *IDE´s:*<br/>    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" height="50" />   
 <br/>
     
-*OS:*<br/>    
+- *OS:*<br/>    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="50" height="50" />          
 <br/>    
 
