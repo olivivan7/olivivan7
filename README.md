@@ -21,9 +21,9 @@ A few others are related to **Software Engineering**.<br/>
 <img src="https://img.shields.io/badge/Bachelor-Production%20Engineering-blue" /> <img src="https://img.shields.io/badge/Master-Business%20Intelligence-yellow" /> <img src="https://img.shields.io/badge/Master-Data%20Engineering%20at%20IGTI-yellow" />
 <img src="https://img.shields.io/badge/Master-Data%20Engineering%20at%20Purdue%20University-yellow" />
 
-*Spoken Languages:*
-🇧🇷 Portuguese: Native
-🏴󠁧󠁢󠁥󠁮󠁧󠁿 English: Fluent
+*Spoken Languages:*<br/>
+<img src="flags/4x3/br.svg" width=30 heigth="30" />Portuguese: Native
+<img src="flags/4x3/ea.svg" width="30" heigth="30" /> Spanish: Intermidiate
 
 *Languages:*<br/>
     
