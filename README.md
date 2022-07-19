@@ -38,7 +38,7 @@ Others are related to **Software Engineering**.<br/>
     
 Languages and tools:
     
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" weidth="40" height="40"/>
  <br/>
 <br/>    
 <ol>
