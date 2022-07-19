@@ -1,8 +1,3 @@
-### Hi there 👋
-
-- 🌱 I’m currently finishing my Big Data Engineering Master degree...
-- 👯 I’m looking to collaborate somehow with UN sustainable development goals...
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,13 +7,16 @@
             
 <body>
 
-***Hello World!***
+***Hello World!*** 👋
 
 My name is Ivan and this is my GitHub profile.<br/>
 I´m a Business Intelligence and Data Engineer seeking to leverage 3+ years of experience.<br/>
 Here are the most relevant projects that I´ve done.<br/>
 Most part are related to **Business Intelligence, Data Science, Machine Learning and Data Engineering**.<br/>
 Others are related to **Software Engineering**.<br/>
+
+- 🌱 I’m currently finishing my Big Data Engineering Master degree...
+- 👯 I’m looking to collaborate somehow with UN sustainable development goals...
 
 <img src="https://img.shields.io/badge/Bachelor-Production%20Engineering-blue" /> <img src="https://img.shields.io/badge/Master-Business%20Intelligence-yellow" /> <img src="https://img.shields.io/badge/Master-Data%20Engineering%20at%20IGTI-yellow" />
 <img src="https://img.shields.io/badge/Master-Data%20Engineering%20at%20Purdue%20University-yellow" />
