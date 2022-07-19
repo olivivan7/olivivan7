@@ -1,7 +1,3 @@
-<gif src="https://tenor.com/bjjBW.gif" />
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
