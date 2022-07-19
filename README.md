@@ -51,7 +51,7 @@ A few others are related to **Software Engineering**.<br/>
 </div>
 <br/>    
 
-<center><img src="https://user-images.githubusercontent.com/67763471/179779107-25f0930e-70ff-482c-89c1-f1dc74d66809.png"></center>
+<center><img src="https://user-images.githubusercontent.com/67763471/179779107-25f0930e-70ff-482c-89c1-f1dc74d66809.png" width="200" heigth="200"></center>
 
     
 ***Welcome to my portfolio.***  
