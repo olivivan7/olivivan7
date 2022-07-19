@@ -36,7 +36,11 @@ Others are related to **Software Engineering**.<br/>
 
 ![Skills](https://user-images.githubusercontent.com/67763471/179779107-25f0930e-70ff-482c-89c1-f1dc74d66809.png)
     
-Some of the tools that I´ve used so far:
+Languages and tools:
+    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+ <br/>
+<br/>    
 <ol>
     <li>IDE´s:
         <ul>Visual Studio</ul><ul>Visual Studio Code</ul><ul>PyCharm</ul><ul>Eclipse</ul><ul>RStudio</ul>
@@ -79,7 +83,7 @@ Some of the tools that I´ve used so far:
     
 ***Welcome to my portfolio.***  
     
-https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966***Contacts:***   
+***Connect with me:***   
     <div>
         <a href = "mailto:contato@olivivan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
         <a href="https://www.linkedin.com/in/ivanmdeoliveira7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
