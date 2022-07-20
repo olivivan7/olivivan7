@@ -49,7 +49,7 @@ A few others are related to **Software Engineering**.<br/>
     <a href="https://github.com/olivivan7">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivivan7&layout=compact&langs_count=7&theme=dracula"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olivivan7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-<br/>    
+<br/>
 
 <p><img src="https://user-images.githubusercontent.com/67763471/179779107-25f0930e-70ff-482c-89c1-f1dc74d66809.png" width="500" heigth="500"></p>
 
