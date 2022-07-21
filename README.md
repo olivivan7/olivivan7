@@ -1,5 +1,8 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en"> 
+
+<img src="https://user-images.githubusercontent.com/67763471/180314921-378ff9df-e432-4d8e-93a7-1e16bb7ace38.png" />
+
 <head>
     <meta charset="UTF-8">
     <h1 align="center">My Curriculum Vitae</h1>
